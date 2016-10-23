@@ -1,5 +1,7 @@
 # FXCM Historical Data API
 
+[![GitHub issues](https://img.shields.io/github/issues/mhockenberger/fxcm-historical-data-api.svg)](https://github.com/mhockenberger/fxcm-historical-data-api/issues) [![GitHub forks](https://img.shields.io/github/forks/mhockenberger/fxcm-historical-data-api.svg)](https://github.com/mhockenberger/fxcm-historical-data-api/network) [![GitHub stars](https://img.shields.io/github/stars/mhockenberger/fxcm-historical-data-api.svg)](https://github.com/mhockenberger/fxcm-historical-data-api/stargazers)
+
 ## Description
 
 **FXCM Historical Data API** is an API designed to access historical prices of financial instruments directly from FXCM.
@@ -7,11 +9,9 @@
 The following pricing data is available:
 
 * 39 FX pairs including majors and exotics
-* CFDs[^1] including equities, metals & oil
+* CFDs including equities, metals & oil
 * 1 / 5 / 15 / 30 min(s), 1 / 4 hour(s), 1 day, 1 week and 1 month data
 * Bid / Ask data
-
-[^1]: CFDs are not available to residents of the US or its territories. As such, accounts held with Forex Capital Markets LLC (FXCM US) do not have access to CFD data.
 
 ## Features
 
