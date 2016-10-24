@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HistData:jar">
+    <output-path>$PROJECT_DIR$/artifacts/HistData_jar</output-path>
+    <root id="archive" name="HistData.jar">
+      <element id="module-output" name="FXCM" />
+      <element id="extracted-dir" path="$USER_HOME$/ForexConnectAPI/1.4.1-Darwin-universal/lib/java/fxcore2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

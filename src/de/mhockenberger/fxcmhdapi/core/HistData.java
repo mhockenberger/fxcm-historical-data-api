@@ -7,7 +7,7 @@ import com.fxcore2.*;
 
 public class HistData {
     static SimpleDateFormat mDateFormat = new SimpleDateFormat("yyyyMMdd HHmmss");
-    
+
     public static void main(String[] args) {
         O2GSession session = null;
 

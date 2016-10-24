@@ -52,6 +52,12 @@ Use classpath of module:	FXCM
 JRE:						1.8
 ```
 
+### JAR-Packaged HistData
+
+```
+sudo java -Djava.library.path=libs:libs/java -jar artifacts/HistData_jar/HistData.jar
+```
+
 ## Dev / Requirements / Used SDKs
 
 * [OS X](http://www.apple.com/de/downloads/)
