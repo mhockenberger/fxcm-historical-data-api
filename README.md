@@ -26,14 +26,14 @@ The following pricing data is available:
 | -------- | ----------- |
 | <ul><li>`/login`</li><li>`--login`</li><li>`/l`</li><li>`-l`</li></ul> | Your username. |
 | <ul><li>`/password`</li><li>`--password`</li><li>`/p`</li><li>`-p`</li></ul> | Your password. |
-| <ul><li>`/url`</li><li>`--url`</li><li>`/u`</li><li>`-u`</li></ul> | The server URL. For example, [http://www.fxcorporate.com/Hosts.jsp](http://www.fxcorporate.com/Hosts.jsp). |
-| <ul><li>`/connection`</li><li>`--connection`</li><li>`/c`</li><li>`-c`</li></ul> | The connection name. For example, *"Demo"* or *"Real"*. |
-| <ul><li>`/sessionid`</li><li>`--sessionid`</li></ul> | The database name. Required only for users who have accounts in more than one database. Optional parameter. |
-| <ul><li>`/pin`</li><li>`--pin`</li></ul> | Your pin code. Required only for users who have a pin. Optional parameter. |
-| <ul><li>`/instrument`</li><li>`--instrument`</li><li>`/i`</li><li>`-i`</li></ul> | An instrument which you want to use in sample. For example, *"GER30"* or *"EUR/USD"*. |
-| <ul><li>`/timeframe`</li><li>`--timeframe`</li></ul> | Time period which forms a single candle. For example, *"t1"* - for 1 tick, *"m1"* - for 1 minute or *"H1"* - for 1 hour. |
-| <ul><li>`/datefrom`</li><li>`--datefrom`</li></ul> | DateTime from which you want to receive historical prices. If you leave this argument as it is, it will mean *datefrom* last trading day. Format is *"MM.dd.yyyy HH:mm:ss"*. Optional parameter. |
-| <ul><li>`/dateto`</li><li>`--dateto`</li></ul> | DateTime until which you want to receive historical prices. If you leave this argument as it is, it will mean *dateto* now. Format is *"MM.dd.yyyy HH:mm:ss"*. Optional parameter. |
+| <ul><li>`/url`</li><li>`--url`</li><li>`/u`</li><li>`-u`</li></ul> | The server URL.<br/>For example, [http://www.fxcorporate.com/Hosts.jsp](http://www.fxcorporate.com/Hosts.jsp). |
+| <ul><li>`/connection`</li><li>`--connection`</li><li>`/c`</li><li>`-c`</li></ul> | The connection name.<br/>For example, *"Demo"* or *"Real"*. |
+| <ul><li>`/sessionid`</li><li>`--sessionid`</li></ul> | The database name.<br/>Required only for users who have accounts in more than one database.<br/>Optional parameter. |
+| <ul><li>`/pin`</li><li>`--pin`</li></ul> | Your pin code.<br/>Required only for users who have a pin.<br/>Optional parameter. |
+| <ul><li>`/instrument`</li><li>`--instrument`</li><li>`/i`</li><li>`-i`</li></ul> | An instrument which you want to use in sample.<br/>For example, *"GER30"* or *"EUR/USD"*. |
+| <ul><li>`/timeframe`</li><li>`--timeframe`</li></ul> | Time period which forms a single candle.<br/>For example, *"t1"* - for 1 tick, *"m1"* - for 1 minute or *"H1"* - for 1 hour. |
+| <ul><li>`/datefrom`</li><li>`--datefrom`</li></ul> | DateTime from which you want to receive historical prices.<br/>If you leave this argument as it is, it will mean *datefrom* last trading day.<br/>Format is *"MM.dd.yyyy HH:mm:ss"*.<br/>Optional parameter. |
+| <ul><li>`/dateto`</li><li>`--dateto`</li></ul> | DateTime until which you want to receive historical prices.<br/>If you leave this argument as it is, it will mean *dateto* now.<br/>Format is *"MM.dd.yyyy HH:mm:ss"*.<br/>Optional parameter. |
 | <ul><li>`/outputdir`</li><li>`--outputdir`</li><li>`/o`</li><li>`-o`</li></ul> | The destination folder for downloaded data. |
 
 ## Run configurations
